@@ -1,4 +1,4 @@
-BOT_TOKEN = "7538304532:AAFUr8C87Zv44d3Ud-5lQC40UkPxtOFps4g"
+BOT_TOKEN = "7916715600:AAGwQEGVdVppRKX-UeSZ5_U12KBuulpO3Q0"
 ADMIN_IDS = ["1604629264"]
 GROUP_ID = -1002201895980  # Replace with your group ID
 GROUP_LINK = "https://t.me/+OnxaFJPwFDQyNWI1"  # Replace with your group invite link
